@@ -1,0 +1,12 @@
+﻿source,entity,period_end_year,product,volume_thousand,volume_unit,price_local_per_unit,revenue_thousand_local,gross_margin_pct,operating_earnings_thousand_local,currency
+7,华润建材科技,2022,水泥,72110,t,308.4,22238141,15.5,,CNY
+7,华润建材科技,2023,水泥,66728,t,273.9,18276749,12,,CNY
+8,华润建材科技,2024,水泥产品,61714,t,243.7,15039498,15.1,,CNY
+8,华润建材科技,2025,水泥产品,55421,t,228.4,12657168,17.1,,CNY
+7,华润建材科技,2022,混凝土,10805,m3,419.9,4537226,12.7,,CNY
+7,华润建材科技,2023,混凝土,9334,m3,366.7,3423245,11.9,,CNY
+8,华润建材科技,2024,混凝土,13029,m3,319.5,4161956,12.2,,CNY
+8,华润建材科技,2025,混凝土,15407,m3,284.9,4389118,14.3,,CNY
+9,Eagle Materials（全资业务；财年3月31日截止）,2023,水泥,6399,US_short_ton,,,,243288,USD
+9,Eagle Materials（全资业务；财年3月31日截止）,2024,水泥,6610,US_short_ton,,,,306768,USD
+9,Eagle Materials（全资业务；财年3月31日截止）,2025,水泥,6237,US_short_ton,,,,293060,USD

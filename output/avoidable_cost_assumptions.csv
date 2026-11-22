@@ -1,0 +1,4 @@
+cost_case,materials,energy,labour_other,vc,minimum_pass_through
+Lower avoidable cost,0.85,0.75,0.1,123.76564312872677,0.8425157737511494
+Central assumption,1,0.9,0.35,162.67854073746054,0.874358911489622
+Higher avoidable cost,1,1,0.65,194.69330760698,0.9005571823390893

@@ -1,0 +1,15 @@
+parameter,central,unit,basis
+Case year,2024,year,Group financial data and domestic emissions proxy
+Cement Scope 1 intensity,0.58326,t CO2/t cement,Huaxin domestic disclosure
+Real discount rate,0.08,fraction,Scenario assumption
+Project horizon,20,years,Common end date for both investment strategies
+Avoided/captured ratio,0.85,fraction,Scenario assumption
+Reference throughput,0.75,fraction,First operating year if investing now
+Low future throughput,0.4,fraction,Persistent low-demand state
+High future throughput,0.95,fraction,Persistent high-demand state
+Transport and storage,25,2022 USD/t captured,Midpoint of DOE cost range
+Investment delay,1,year,Demand state observed before delayed investment
+Idle contribution,0,CNY/t baseline sales,"Common fixed costs, no restart charge"
+Free allocation,0,fraction,Hypothetical full tax on direct emissions
+Capture subsidy,0,USD/t captured,Tax-only retrofit scenario
+Terminal value,0,USD,No salvage credit at the common end date

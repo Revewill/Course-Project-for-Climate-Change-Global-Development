@@ -1,0 +1,13 @@
+metric,value,unit,interpretation
+2030 central carbon price,291.16721585371516,2024 USD/t CO2,"IPCC global C1 scenario benchmark, used as a hypothetical tax"
+Baseline gross profit,75.10956866011927,2024 CNY/t cement sold,"Huaxin group cement revenue less cost of sales, divided by cement sales"
+Central carbon cost,1222.018317677262,2024 CNY/t cement,Domestic direct emissions applied to group unit economics
+Central gross profit after tax,-1146.9087490171428,2024 CNY/t cement,"Fixed product price, sales and technology"
+Gross-profit break-even tax,128.7754494738526,2024 CNY/t CO2,Carbon price at which baseline gross profit reaches zero
+Operating break-even pass-through,0.874358911489622,fraction of carbon cost,"Central avoidable cost, positive sales, zero idle contribution"
+Full-pass-through sales retained,0.24697679070922934,fraction of baseline sales,US market elasticity applied as a stress test
+Reference retrofit NPV,636.176407655576,million 2022 USD,"US engineering case, constant central carbon price and reference throughput"
+Retrofit break-even throughput,0.39480482733576105,fraction of reference capacity,Central carbon price and engineering assumptions
+Retrofit break-even carbon price,179.61734034707897,2022 USD/t CO2,Reference throughput and engineering assumptions
+Minimum concrete cost increase at 40% pass-through,112.42568522630813,2024 CNY/m3,"Purchased cement only, across the supplied mixes"
+Maximum concrete cost increase at 40% pass-through,201.8774260802837,2024 CNY/m3,"Purchased cement only, across the supplied mixes"

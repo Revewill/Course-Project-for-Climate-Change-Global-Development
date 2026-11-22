@@ -1,0 +1,22 @@
+Figure 1. Carbon pricing and cement producers' exposure.
+(a) Global IPCC C1 marginal abatement costs and regional carbon prices from the IEA 2021 net-zero scenario, expressed in 2024 USD. Vertical bars show the reported IPCC pathway range. Lines connect reported years.
+(b) Regional gross CO2 intensity per tonne of cementitious material. Values are approximate readings from published GCCA/GNR curves.
+(c) Indian cement emissions by source in 2023. Electricity is an indirect source.
+(d) Huaxin group cement selling price, cost of sales and gross profit per tonne sold, in each year's nominal CNY.
+(e) Huaxin gross profit under a hypothetical full tax on direct emissions, at fixed 2024 selling price, sales and technology. Domestic Scope 1 intensity is used as a proxy for the group. Shading spans the 2030 IPCC range. Circles mark the low, central and high scenarios. The diamond marks zero gross profit.
+(f) Historical EU ETS pass-through estimates by product and market. Segments show ranges reported across the indicated markets. The UK and Italy entry records a lack of statistical significance.
+
+Figure 2. Pricing, investment timing and downstream cost under a hypothetical carbon tax.
+(a) Operating contribution relative to the better of holding price at baseline sales and idling. Values are per tonne of baseline sales. The dashed line marks the pass-through needed to cover avoidable costs at positive sales. Sales retention and pass-through vary independently in this panel.
+(b) Contribution when sales retention follows constant-elasticity demand. Three historical US market elasticity estimates are applied as stress tests to Huaxin's 2024 baseline. The large price changes extrapolate beyond the baseline and do not establish firm-specific demand.
+(c) Incremental NPV of capture at a US reference cement plant. The solid contour marks zero NPV. The dashed line marks the central carbon price in 2022 USD. Throughput scales capture, avoided emissions and variable operating costs.
+(d) Expected NPV over a common 20-year horizon. Immediate investment earns the first year's cash flow at reference throughput. Waiting reveals the persistent demand state after one year and permits the firm to decline investment. The remaining operating life is then 19 years. No retrofit has zero incremental NPV.
+(e) Added cement expenditure per cubic metre for ten published concrete mixes, under three cement cost pass-through assumptions. Mixes with equal purchased cement content coincide. The calculation holds mix composition fixed and excludes separately purchased slag and fly ash.
+(f) One-at-a-time sensitivity of retrofit NPV. The dashed line marks the central case. Circles and triangles mark the lower and higher input, respectively. The underlying input ranges are in investment_sensitivity.csv.
+
+Monetary conventions and scope
+US CPI-U puts scenario prices on a common dollar basis. The 2024 annual-average CNY/USD exchange rate converts the Huaxin tax scenarios. US engineering costs are treated on an approximate common 2022 USD basis. The retrofit case assumes an 8% real discount rate, a 0.85 avoided-to-captured CO2 ratio, no capture subsidy and no terminal value. The Huaxin and US plant results describe separate cases.
+
+Source identifiers in data/00_sources.csv
+Figure 1a: 1, 2, 22. Figure 1b: 15. Figure 1c: 10. Figure 1d: 3-5. Figure 1e: 1, 4, 6, 22, 23. Figure 1f: 18.
+Figure 2a: 1, 4, 6, 22, 23. Figure 2b: same inputs plus 19. Figure 2c, d and f: 1, 16, 22 and stated scenario assumptions. Figure 2e: 1, 4, 6, 21-23 and stated pass-through assumptions.
